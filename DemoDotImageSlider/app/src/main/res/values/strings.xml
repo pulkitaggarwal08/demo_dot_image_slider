@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DemoDotImageSlider</string>
+    <string name="made_by_pulkit">Made by Pulkit</string>
+
+    <string name="instruction_1_title">Welcome to Pantepic</string>
+    <string name="instruction_2_title">Easy to Use</string>
+    <string name="instruction_3_title">Secure</string>
+    <string name="instruction_4_title">Delayed Messages</string>
+    <string name="instruction_5_title">File Sharing</string>
+    <string name="instruction_6_title">Group Chat</string>
+    <string name="instruction_7_title">Proximity &amp; Presence</string>
+
+    <string name="welcome_to_my_app">Welcome To My App</string>
+
+</resources>

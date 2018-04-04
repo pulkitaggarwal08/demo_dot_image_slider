@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="landing_bg">
+        <item>@color/colorAccent</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/colorAccent</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/colorAccent</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/colorAccent</item>
+    </array>
+
+    <array name="icons">
+        <item>@mipmap/instruction_1</item>
+        <item>@mipmap/instruction_2</item>
+        <item>@mipmap/instruction_3</item>
+        <item>@mipmap/instruction_4</item>
+        <item>@mipmap/instruction_5</item>
+        <item>@mipmap/instruction_6</item>
+        <item>@mipmap/instruction_7</item>
+    </array>
+
+    <string-array name="titles" >
+        <item>@string/instruction_1_title</item>
+        <item>@string/instruction_2_title</item>
+        <item>@string/instruction_3_title</item>
+        <item>@string/instruction_4_title</item>
+        <item>@string/instruction_5_title</item>
+        <item>@string/instruction_6_title</item>
+        <item>@string/instruction_7_title</item>
+    </string-array>
+
+
+
+</resources>
